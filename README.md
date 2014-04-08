@@ -1,11 +1,11 @@
-[![Stories in Ready](https://badge.waffle.io/ocha-dap/data-team.png?label=ready&title=Ready)](https://waffle.io/ocha-dap/data-team)
-Data-Team
+
+Data-Team [![Stories in Ready](https://badge.waffle.io/ocha-dap/data-team.png?label=ready&title=Ready)](https://waffle.io/ocha-dap/data-team)
 =========
 
-A place for tracking data team issues
+The main place for tracking issues by HDX's Data Team. (hdx.rwlabs.org)
 
 
 Issues
 ------
 
-Check the issues page here (https://github.com/OCHA-DAP/Data-Team/issues) for the current open issues.
+Use the issues page to submit and view the curent open issues here: (https://github.com/OCHA-DAP/Data-Team/issues) 
